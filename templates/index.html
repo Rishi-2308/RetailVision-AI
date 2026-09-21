@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="text-center hero py-5">
+  <h1 class="display-4 fw-bold">RetailVision AI</h1>
+  <p class="lead">Intelligent Shopper Behavior &amp; Attention Analytics</p>
+  <div class="d-flex justify-content-center gap-3 mt-4">
+    <a class="btn btn-primary btn-lg" href="{{ url_for('upload') }}">Upload Video</a>
+    <a class="btn btn-outline-light btn-lg" href="{{ url_for('demo') }}">View Demo</a>
+  </div>
+</section>
+<section class="row g-3 mt-2">
+  {% set levels = [
+    ("1", "Shopper Detection", "YOLO finds people in every frame"),
+    ("2", "Shopper Tracking", "ByteTrack keeps an anonymous ID per shopper"),
+    ("3", "Behavior Recognition", "LSTM trained on the MERL Shopping Dataset"),
+    ("4", "Engagement Estimation", "Project-defined score from observable signals"),
+    ("5", "Retail Analytics", "Dwell time, zones, journeys, heatmap"),
+    ("6", "Explainable Insights", "Every score shows the reasons behind it")] %}
+  {% for n, t, d in levels %}
+  <div class="col-md-4"><div class="card rv-card h-100"><div class="card-body">
+    <div class="level-badge">Level {{ n }}</div>
+    <h5 class="mt-2">{{ t }}</h5><p class="text-muted mb-0">{{ d }}</p>
+  </div></div></div>
+  {% endfor %}
+</section>
+{% endblock %}

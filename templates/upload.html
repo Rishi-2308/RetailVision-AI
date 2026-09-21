@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Upload - RetailVision AI{% endblock %}
+{% block content %}
+<div class="row justify-content-center"><div class="col-lg-7">
+<h2 class="mb-3">Upload a shopping video</h2>
+{% if not ready %}
+<div class="alert alert-warning">
+  <strong>The trained {{ model|upper }} model was not found.</strong>
+  Train the models first (README, phases 3&ndash;6). The analysis will refuse to run without a
+  trained model - results are never faked.
+  <div class="small mt-1">LSTM files: {{ 'OK' if files.lstm else 'missing' }} &middot;
+  Random Forest file: {{ 'OK' if files.rf else 'missing' }}</div>
+</div>
+{% endif %}
+<div class="card rv-card"><div class="card-body">
+<form method="post" enctype="multipart/form-data" id="upload-form">
+  <label class="form-label">Video file (.mp4, .avi, .mov &middot; max {{ max_mb }} MB)</label>
+  <input class="form-control mb-3" type="file" name="video" accept=".mp4,.avi,.mov" required>
+  <button class="btn btn-primary" type="submit" id="submit-btn">Analyze Video</button>
+</form>
+</div></div>
+<p class="text-muted small mt-3">Use only videos of people who agreed to be recorded (staged or consented footage).
+Shoppers are shown as anonymous IDs; there is no face recognition.</p>
+</div></div>
+{% endblock %}
+{% block scripts %}
+<script>
+document.getElementById('upload-form').addEventListener('submit', function () {
+  var b = document.getElementById('submit-btn'); b.disabled = true; b.textContent = 'Uploading...';
+});
+</script>
+{% endblock %}

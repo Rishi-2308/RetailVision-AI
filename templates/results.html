@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+{% block title %}Results - RetailVision AI{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <div><h2 class="mb-0">Analysis results</h2><span class="text-muted">{{ video.original_name }}
+   &middot; {{ video.duration|num1 }} s &middot; model: {{ (video.model_used or '')|upper }}</span></div>
+  <a class="btn btn-outline-secondary" href="{{ url_for('dashboard') }}">Open dashboard</a>
+</div>
+{% if video.message %}<div class="alert alert-info">{{ video.message }}</div>{% endif %}
+
+<div class="row g-3 mb-4">
+  <div class="col-md-4"><div class="card rv-card stat"><div class="card-body">
+    <div class="stat-label">Total shoppers</div><div class="stat-value">{{ summary.total_shoppers }}</div></div></div></div>
+  <div class="col-md-4"><div class="card rv-card stat"><div class="card-body">
+    <div class="stat-label">Average dwell time</div><div class="stat-value">{{ summary.avg_dwell }} s</div></div></div></div>
+  <div class="col-md-4"><div class="card rv-card stat"><div class="card-body">
+    <div class="stat-label">Average engagement</div><div class="stat-value">{{ summary.avg_engagement }}/100</div></div></div></div>
+</div>
+
+<div class="row g-3 mb-4">
+  <div class="col-lg-6">
+    <div class="card rv-card h-100"><div class="card-header">Annotated video</div><div class="card-body">
+    {% if video.annotated_video %}
+      <video class="w-100" controls src="{{ url_for('static', filename='processed/' + video.annotated_video) }}"></video>
+      <a class="small" href="{{ url_for('static', filename='processed/' + video.annotated_video) }}" download>Download video</a>
+      <div class="text-muted small">If the player stays black, your browser cannot play this codec - download the file and open it in VLC/Windows Media Player.</div>
+    {% elif video.preview_image %}
+      <img class="img-fluid" src="{{ url_for('static', filename='processed/' + video.preview_image) }}">
+      <div class="text-muted small">No shoppers tracked, so no annotated video was written.</div>
+    {% endif %}
+    </div></div>
+  </div>
+  <div class="col-lg-6">
+    <div class="card rv-card h-100"><div class="card-header">Shopper Engagement Heatmap</div><div class="card-body">
+    {% if video.heatmap_image %}
+      <img class="img-fluid" src="{{ url_for('static', filename='processed/' + video.heatmap_image) }}">
+      <div class="text-muted small">Shows where shoppers stayed and where behaviours were recognised. It is not an eye-tracking map.</div>
+    {% else %}<p class="text-muted">No heatmap (no shoppers tracked).</p>{% endif %}
+    </div></div>
+  </div>
+</div>
+
+<div class="row g-3 mb-4">
+  <div class="col-lg-6"><div class="card rv-card h-100"><div class="card-header">Zone information</div>
+    <div class="table-responsive"><table class="table table-sm mb-0">
+      <thead><tr><th>Zone</th><th>Shoppers</th><th>Avg dwell (s)</th><th>Avg engagement</th></tr></thead>
+      <tbody>{% for z in summary.zones %}<tr><td>{{ z.zone }}</td><td>{{ z.shoppers }}</td>
+        <td>{{ z.avg_dwell|num1 }}</td><td>{{ z.avg_eng|num1 }}</td></tr>
+      {% else %}<tr><td colspan="4" class="text-muted">No zone visits.</td></tr>{% endfor %}</tbody>
+    </table></div></div></div>
+  <div class="col-lg-6"><div class="card rv-card h-100"><div class="card-header">Detected behaviors (events)</div>
+    <div class="table-responsive"><table class="table table-sm mb-0">
+      <thead><tr><th>Behavior</th><th>Count</th></tr></thead>
+      <tbody>{% for b, n in summary.behavior_distribution.items() %}<tr><td>{{ b }}</td><td>{{ n }}</td></tr>
+      {% else %}<tr><td colspan="2" class="text-muted">No behavior above the confidence threshold.</td></tr>{% endfor %}</tbody>
+    </table></div></div></div>
+</div>
+
+<h4 class="mb-3">Individual shoppers</h4>
+{% for s in shoppers %}
+{% set a = s.analytics %}
+<div class="card rv-card mb-3"><div class="card-body">
+  <div class="d-flex justify-content-between flex-wrap">
+    <h5>{{ s.label }} <small class="text-muted">{{ s.start_time|mmss }}&ndash;{{ s.end_time|mmss }}</small></h5>
+    <span class="badge level-{{ a.engagement_level|lower|replace(' ', '-') }} fs-6">{{ a.engagement_level }}</span>
+  </div>
+  <div class="row g-3">
+    <div class="col-md-5">
+      <div class="fw-bold">Engagement Score: {{ a.engagement_score|num1 }}/100</div>
+      <div class="progress mb-2"><div class="progress-bar" style="width: {{ a.engagement_score }}%"></div></div>
+      <div class="small text-muted">Reasons</div>
+      <ul class="mb-2">{% for r in a.reasons %}<li>{{ r }}</li>{% endfor %}</ul>
+      <div class="small">Total dwell: <b>{{ a.total_dwell_time|num1 }} s</b> &middot; Dominant behavior: <b>{{ a.dominant_behavior }}</b></div>
+      {% if a.components %}<div class="small text-muted mt-1">Components (0&ndash;1):
+        duration {{ a.components.duration }}, proximity {{ a.components.proximity }},
+        interaction {{ a.components.interaction }}, movement {{ a.components.movement }}</div>{% endif %}
+    </div>
+    <div class="col-md-7">
+      <div class="small text-muted">Shopper journey</div>
+      <div class="journey mb-2">
+        {% for st in a.journey %}<span class="j-step j-{{ st.type }}" title="{{ st.time|mmss }}">{{ st.label }}</span>{% if not loop.last %}<span class="j-arrow">&rarr;</span>{% endif %}{% endfor %}
+      </div>
+      <div class="table-responsive"><table class="table table-sm">
+        <thead><tr><th>Zone</th><th>Entry</th><th>Exit</th><th>Dwell</th><th>Engagement</th></tr></thead>
+        <tbody>{% for v in s.visits %}<tr><td>{{ v.zone }}</td><td>{{ v.entry_time|mmss }}</td>
+          <td>{{ v.exit_time|mmss }}</td><td>{{ v.dwell_time|num1 }} s</td><td>{{ v.engagement_score|num1 }}</td></tr>{% endfor %}</tbody>
+      </table></div>
+    </div>
+  </div>
+  {% if s.behaviors %}
+  <details><summary class="small">Behavior timeline ({{ s.behaviors|length }})</summary>
+    <table class="table table-sm mt-2"><thead><tr><th>Behavior</th><th>Confidence</th><th>Start</th><th>End</th><th>Zone</th></tr></thead>
+    <tbody>{% for b in s.behaviors %}<tr><td>{{ b.behavior }}</td><td>{{ (b.confidence*100)|num1 }}%</td>
+      <td>{{ b.start_time|mmss }}</td><td>{{ b.end_time|mmss }}</td><td>{{ b.zone or '-' }}</td></tr>{% endfor %}</tbody></table>
+  </details>{% endif %}
+  {% for l in a.lost_interest %}
+  <div class="alert alert-warning mt-2 mb-0 py-2"><b>Potential Lost Interest</b> &middot; Zone: {{ l.zone }} &middot;
+    Interaction duration: {{ l.interaction_seconds }} s &middot; Behavior: {{ l.behavior }} &middot; Outcome: {{ l.outcome }}
+    <div class="small text-muted">Behavioural analytics only - not a conclusion about what the person thought or felt.</div></div>
+  {% endfor %}
+</div></div>
+{% else %}
+<div class="alert alert-secondary">No shopper was tracked long enough to be analysed.</div>
+{% endfor %}
+{% endblock %}

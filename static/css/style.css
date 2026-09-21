@@ -1,0 +1,20 @@
+body { background: #0f1420; color: #e6e9f0; }
+.rv-nav { background: #0b0f19; border-bottom: 1px solid #1f2637; }
+.hero { background: radial-gradient(circle at 50% 0%, #1b2a55 0%, #0f1420 70%); border-radius: 16px; }
+.rv-card { background: #171d2e; border: 1px solid #252d44; color: #e6e9f0; }
+.rv-card .card-header { background: #1c2438; border-bottom: 1px solid #252d44; font-weight: 600; }
+.rv-card .table { --bs-table-bg: transparent; --bs-table-color: #e6e9f0; --bs-table-border-color: #252d44; }
+.text-muted, .form-label { color: #98a2bd !important; }
+.level-badge { display: inline-block; background: #24345f; color: #8fb3ff; border-radius: 20px; padding: 2px 12px; font-size: .8rem; }
+.stat .stat-label { color: #98a2bd; font-size: .85rem; }
+.stat .stat-value { font-size: 2rem; font-weight: 700; }
+.stat .stat-sm { font-size: 1.25rem; }
+.journey { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.j-step { padding: 3px 10px; border-radius: 14px; font-size: .8rem; background: #2a3350; }
+.j-zone { background: #1f5f8b; } .j-behavior { background: #6a3d9a; }
+.j-entry, .j-exit { background: #2d6a4f; }
+.j-arrow { color: #6b7691; }
+.badge.level-low { background: #6c757d; } .badge.level-moderate { background: #f7b731; color: #222; }
+.badge.level-high { background: #2ecc71; color: #222; } .badge.level-very-high { background: #22c1c3; color: #222; }
+.progress { background: #252d44; }
+details summary { cursor: pointer; color: #8fb3ff; }

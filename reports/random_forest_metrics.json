@@ -1,0 +1,101 @@
+{
+  "model": "random_forest",
+  "splits": {
+    "validation": {
+      "n_samples": 899,
+      "accuracy": 0.7842046718576196,
+      "precision_macro": 0.7606057662413034,
+      "recall_macro": 0.7610990242845608,
+      "f1_macro": 0.7598664333946381,
+      "precision_weighted": 0.7858336431298404,
+      "recall_weighted": 0.7842046718576196,
+      "f1_weighted": 0.7842807866192133,
+      "confusion_matrix": [
+        [
+          203,
+          6,
+          12,
+          10,
+          8
+        ],
+        [
+          15,
+          183,
+          9,
+          8,
+          11
+        ],
+        [
+          15,
+          16,
+          60,
+          7,
+          2
+        ],
+        [
+          3,
+          5,
+          5,
+          97,
+          17
+        ],
+        [
+          9,
+          7,
+          6,
+          23,
+          162
+        ]
+      ],
+      "report": "                    precision    recall  f1-score   support\n\n    Reach to Shelf       0.83      0.85      0.84       239\nRetract from Shelf       0.84      0.81      0.83       226\n     Hand in Shelf       0.65      0.60      0.62       100\n   Inspect Product       0.67      0.76      0.71       127\n     Inspect Shelf       0.81      0.78      0.80       207\n\n          accuracy                           0.78       899\n         macro avg       0.76      0.76      0.76       899\n      weighted avg       0.79      0.78      0.78       899\n"
+    },
+    "test": {
+      "n_samples": 1054,
+      "accuracy": 0.7732447817836812,
+      "precision_macro": 0.7697091719432365,
+      "recall_macro": 0.7547031646083484,
+      "f1_macro": 0.7600275018054585,
+      "precision_weighted": 0.7766980046585307,
+      "recall_weighted": 0.7732447817836812,
+      "f1_weighted": 0.7736296957646243,
+      "confusion_matrix": [
+        [
+          228,
+          12,
+          9,
+          11,
+          14
+        ],
+        [
+          19,
+          206,
+          4,
+          12,
+          14
+        ],
+        [
+          15,
+          11,
+          61,
+          7,
+          1
+        ],
+        [
+          4,
+          10,
+          4,
+          140,
+          27
+        ],
+        [
+          8,
+          13,
+          0,
+          44,
+          180
+        ]
+      ],
+      "report": "                    precision    recall  f1-score   support\n\n    Reach to Shelf       0.83      0.83      0.83       274\nRetract from Shelf       0.82      0.81      0.81       255\n     Hand in Shelf       0.78      0.64      0.71        95\n   Inspect Product       0.65      0.76      0.70       185\n     Inspect Shelf       0.76      0.73      0.75       245\n\n          accuracy                           0.77      1054\n         macro avg       0.77      0.75      0.76      1054\n      weighted avg       0.78      0.77      0.77      1054\n"
+    }
+  }
+}

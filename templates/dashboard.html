@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}Dashboard - RetailVision AI{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h2 class="mb-0">Analytics dashboard</h2>
+  <select id="video-filter" class="form-select w-auto">
+    <option value="">All analysed videos</option>
+    {% for v in videos %}<option value="{{ v.id }}">#{{ v.id }} &middot; {{ v.original_name }}</option>{% endfor %}
+  </select>
+</div>
+<div class="row g-3 mb-4">
+  {% set cards = [("total_shoppers","Total Shoppers"),("avg_dwell","Average Dwell Time (s)"),
+                  ("avg_engagement","Average Engagement"),("high_engagement","High Engagement Shoppers"),
+                  ("most_visited_zone","Most Visited Zone"),("most_common_behavior","Most Common Behavior")] %}
+  {% for key, label in cards %}
+  <div class="col-md-4 col-xl-2"><div class="card rv-card stat h-100"><div class="card-body">
+    <div class="stat-label">{{ label }}</div><div class="stat-value stat-sm" id="c-{{ key }}">-</div></div></div></div>
+  {% endfor %}
+</div>
+<div id="empty" class="alert alert-secondary d-none">No analysed videos yet. <a href="{{ url_for('upload') }}">Upload one</a>.</div>
+<div class="row g-3">
+  <div class="col-lg-6"><div class="card rv-card"><div class="card-header">Behavior distribution</div><div class="card-body"><canvas id="ch-behavior"></canvas></div></div></div>
+  <div class="col-lg-6"><div class="card rv-card"><div class="card-header">Engagement distribution</div><div class="card-body"><canvas id="ch-level"></canvas></div></div></div>
+  <div class="col-lg-4"><div class="card rv-card"><div class="card-header">Dwell time by zone (avg s)</div><div class="card-body"><canvas id="ch-dwell"></canvas></div></div></div>
+  <div class="col-lg-4"><div class="card rv-card"><div class="card-header">Shopper count by zone</div><div class="card-body"><canvas id="ch-count"></canvas></div></div></div>
+  <div class="col-lg-4"><div class="card rv-card"><div class="card-header">Zone engagement (avg)</div><div class="card-body"><canvas id="ch-zoneeng"></canvas></div></div></div>
+  <div class="col-12"><div class="card rv-card"><div class="card-header">Behavior distribution per zone</div><div class="card-body"><canvas id="ch-bz" height="90"></canvas></div></div></div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<script>window.DASH_API = "{{ url_for('api_dashboard') }}";</script>
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,900 @@
+segment_id,video_key,video_path,split,class_id,class_name,start_frame,end_frame,fps,n_frames
+1818,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,235,276,30.0,3932
+1819,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,422,467,30.0,3932
+1820,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,563,599,30.0,3932
+1821,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,726,765,30.0,3932
+1822,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,883,933,30.0,3932
+1823,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1059,1085,30.0,3932
+1824,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1124,1173,30.0,3932
+1825,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1217,1248,30.0,3932
+1826,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1323,1368,30.0,3932
+1827,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1467,1511,30.0,3932
+1828,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1700,1748,30.0,3932
+1829,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1812,1853,30.0,3932
+1830,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,2439,2467,30.0,3932
+1831,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,2511,2544,30.0,3932
+1832,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,2778,2810,30.0,3932
+1833,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,2962,3017,30.0,3932
+1834,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,3230,3257,30.0,3932
+1835,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,3427,3461,30.0,3932
+1836,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,3523,3555,30.0,3932
+1837,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,3599,3635,30.0,3932
+1838,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,1567,1597,30.0,3932
+1839,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,0,Reach to Shelf,2597,2642,30.0,3932
+1840,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1597,1623,30.0,3932
+1841,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,310,371,30.0,3932
+1842,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,467,506,30.0,3932
+1843,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,600,631,30.0,3932
+1844,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,771,828,30.0,3932
+1845,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,964,1022,30.0,3932
+1846,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1086,1123,30.0,3932
+1847,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1174,1213,30.0,3932
+1848,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1278,1321,30.0,3932
+1849,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1392,1438,30.0,3932
+1850,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1512,1561,30.0,3932
+1851,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,1751,1807,30.0,3932
+1852,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,2009,2051,30.0,3932
+1853,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,2472,2510,30.0,3932
+1854,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,2546,2593,30.0,3932
+1855,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,2680,2714,30.0,3932
+1856,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,2904,2947,30.0,3932
+1857,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,3126,3192,30.0,3932
+1858,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,3299,3353,30.0,3932
+1859,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,3462,3511,30.0,3932
+1860,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,3570,3597,30.0,3932
+1861,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,1,Retract from Shelf,3661,3693,30.0,3932
+1862,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,276,310,30.0,3932
+1863,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,934,963,30.0,3932
+1864,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,1248,1276,30.0,3932
+1865,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,1368,1391,30.0,3932
+1866,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,1859,1948,30.0,3932
+1867,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,1949,2009,30.0,3932
+1868,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,2644,2680,30.0,3932
+1869,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,2812,2901,30.0,3932
+1870,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,3019,3108,30.0,3932
+1871,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,3109,3126,30.0,3932
+1872,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,3257,3298,30.0,3932
+1873,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,3555,3570,30.0,3932
+1874,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,2,Hand in Shelf,3636,3661,30.0,3932
+1875,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,371,418,30.0,3932
+1876,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,507,563,30.0,3932
+1877,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,634,723,30.0,3932
+1878,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,830,882,30.0,3932
+1879,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,1440,1465,30.0,3932
+1880,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,1624,1700,30.0,3932
+1881,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,2748,2777,30.0,3932
+1882,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,3192,3229,30.0,3932
+1883,19_3,dataset\raw\Videos_MERL_Shopping_Dataset\19_3_crop.mp4,validation,4,Inspect Shelf,3354,3426,30.0,3932
+2024,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,269,299,30.0,5305
+2025,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,611,635,30.0,5305
+2026,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,894,917,30.0,5305
+2027,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,1201,1223,30.0,5305
+2028,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,1440,1461,30.0,5305
+2029,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,1786,1819,30.0,5305
+2030,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,2433,2468,30.0,5305
+2031,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,2903,2927,30.0,5305
+2032,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,3192,3214,30.0,5305
+2033,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,3409,3439,30.0,5305
+2034,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,3723,3754,30.0,5305
+2035,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,4145,4192,30.0,5305
+2036,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,4748,4768,30.0,5305
+2037,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,463,512,30.0,5305
+2038,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,828,852,30.0,5305
+2039,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,1106,1152,30.0,5305
+2040,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,2640,2697,30.0,5305
+2041,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,2783,2824,30.0,5305
+2042,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,4587,4627,30.0,5305
+2043,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,0,Reach to Shelf,4863,4906,30.0,5305
+2044,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,553,578,30.0,5305
+2045,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,852,876,30.0,5305
+2046,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,1169,1198,30.0,5305
+2047,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,2828,2853,30.0,5305
+2048,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,3166,3190,30.0,5305
+2049,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,4651,4678,30.0,5305
+2050,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,5074,5109,30.0,5305
+2051,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,325,364,30.0,5305
+2052,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,639,665,30.0,5305
+2053,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,919,943,30.0,5305
+2054,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,1224,1250,30.0,5305
+2055,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,1462,1497,30.0,5305
+2056,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,1821,1858,30.0,5305
+2057,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,2470,2491,30.0,5305
+2058,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,2740,2765,30.0,5305
+2059,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,3215,3265,30.0,5305
+2060,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,3442,3489,30.0,5305
+2061,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,3796,3841,30.0,5305
+2062,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,4455,4491,30.0,5305
+2063,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,1,Retract from Shelf,4771,4821,30.0,5305
+2064,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,301,323,30.0,5305
+2065,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,512,552,30.0,5305
+2066,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,1153,1168,30.0,5305
+2067,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,2701,2740,30.0,5305
+2068,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,2928,3017,30.0,5305
+2069,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,3018,3107,30.0,5305
+2070,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,3108,3165,30.0,5305
+2071,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,3754,3793,30.0,5305
+2072,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,4196,4285,30.0,5305
+2073,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,4286,4375,30.0,5305
+2074,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,4376,4454,30.0,5305
+2075,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,4628,4652,30.0,5305
+2076,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,4908,4997,30.0,5305
+2077,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,2,Hand in Shelf,4998,5074,30.0,5305
+2078,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,365,454,30.0,5305
+2079,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,666,755,30.0,5305
+2080,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,756,828,30.0,5305
+2081,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,943,1032,30.0,5305
+2082,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,1033,1106,30.0,5305
+2083,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,1252,1341,30.0,5305
+2084,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,1342,1381,30.0,5305
+2085,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,1498,1587,30.0,5305
+2086,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,1859,1948,30.0,5305
+2087,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,1949,1980,30.0,5305
+2088,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,2494,2583,30.0,5305
+2089,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,2584,2639,30.0,5305
+2090,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,2766,2783,30.0,5305
+2091,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,3266,3355,30.0,5305
+2092,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,3489,3578,30.0,5305
+2093,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,3579,3642,30.0,5305
+2094,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,3843,3932,30.0,5305
+2095,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,3933,4022,30.0,5305
+2096,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,4023,4079,30.0,5305
+2097,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,4493,4582,30.0,5305
+2098,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,3,Inspect Product,4822,4863,30.0,5305
+2099,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,235,267,30.0,5305
+2100,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,579,610,30.0,5305
+2101,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,877,893,30.0,5305
+2102,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,1406,1439,30.0,5305
+2103,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,1614,1703,30.0,5305
+2104,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,1704,1784,30.0,5305
+2105,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,2001,2088,30.0,5305
+2106,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,2853,2901,30.0,5305
+2107,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,3366,3407,30.0,5305
+2108,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,3669,3721,30.0,5305
+2109,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,4080,4143,30.0,5305
+2110,1_3,dataset\raw\Videos_MERL_Shopping_Dataset\1_3_crop.mp4,validation,4,Inspect Shelf,4677,4748,30.0,5305
+2382,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,254,272,30.0,4119
+2383,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,520,536,30.0,4119
+2384,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,825,845,30.0,4119
+2385,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,1077,1094,30.0,4119
+2386,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,1284,1306,30.0,4119
+2387,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,1410,1440,30.0,4119
+2388,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,1686,1711,30.0,4119
+2389,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,2198,2223,30.0,4119
+2390,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,2988,3027,30.0,4119
+2391,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,3158,3177,30.0,4119
+2392,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,3741,3772,30.0,4119
+2393,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,322,362,30.0,4119
+2394,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,880,907,30.0,4119
+2395,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,2549,2570,30.0,4119
+2396,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,0,Reach to Shelf,3883,3942,30.0,4119
+2397,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,371,399,30.0,4119
+2398,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,1196,1219,30.0,4119
+2399,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,1443,1462,30.0,4119
+2400,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,1836,1863,30.0,4119
+2401,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,3064,3095,30.0,4119
+2402,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,3954,4005,30.0,4119
+2403,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,276,302,30.0,4119
+2404,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,539,570,30.0,4119
+2405,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,854,879,30.0,4119
+2406,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,907,944,30.0,4119
+2407,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,946,967,30.0,4119
+2408,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,1336,1360,30.0,4119
+2409,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,1387,1406,30.0,4119
+2410,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,2773,2840,30.0,4119
+2411,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,3242,3309,30.0,4119
+2412,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,1,Retract from Shelf,3782,3858,30.0,4119
+2413,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,1095,1184,30.0,4119
+2414,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,1307,1335,30.0,4119
+2415,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,1711,1800,30.0,4119
+2416,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,1801,1835,30.0,4119
+2417,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,2224,2313,30.0,4119
+2418,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,2314,2403,30.0,4119
+2419,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,2404,2493,30.0,4119
+2420,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,2494,2528,30.0,4119
+2421,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,2576,2665,30.0,4119
+2422,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,2666,2755,30.0,4119
+2423,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,3029,3064,30.0,4119
+2424,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,2,Hand in Shelf,3180,3240,30.0,4119
+2425,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,3,Inspect Product,570,600,30.0,4119
+2426,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,3,Inspect Product,1361,1386,30.0,4119
+2427,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,3,Inspect Product,2528,2548,30.0,4119
+2428,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,3,Inspect Product,3860,3882,30.0,4119
+2429,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,404,493,30.0,4119
+2430,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,494,517,30.0,4119
+2431,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,600,689,30.0,4119
+2432,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,690,779,30.0,4119
+2433,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,780,824,30.0,4119
+2434,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,972,1061,30.0,4119
+2435,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,1220,1284,30.0,4119
+2436,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,1462,1551,30.0,4119
+2437,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,1552,1641,30.0,4119
+2438,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,1642,1686,30.0,4119
+2439,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,1867,1956,30.0,4119
+2440,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,2844,2933,30.0,4119
+2441,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,2934,2983,30.0,4119
+2442,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,3097,3156,30.0,4119
+2443,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,3312,3401,30.0,4119
+2444,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,3402,3491,30.0,4119
+2445,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,3492,3581,30.0,4119
+2446,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,3582,3671,30.0,4119
+2447,21_2,dataset\raw\Videos_MERL_Shopping_Dataset\21_2_crop.mp4,validation,4,Inspect Shelf,3672,3738,30.0,4119
+2611,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,215,248,30.0,4204
+2612,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,470,500,30.0,4204
+2613,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,860,887,30.0,4204
+2614,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,1255,1287,30.0,4204
+2615,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,1593,1631,30.0,4204
+2616,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,2363,2410,30.0,4204
+2617,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,2544,2578,30.0,4204
+2618,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,2930,2959,30.0,4204
+2619,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,3227,3281,30.0,4204
+2620,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,3591,3628,30.0,4204
+2621,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,3877,3921,30.0,4204
+2622,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,0,Reach to Shelf,1728,1772,30.0,4204
+2623,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,250,308,30.0,4204
+2624,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,504,566,30.0,4204
+2625,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,1048,1086,30.0,4204
+2626,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,1290,1358,30.0,4204
+2627,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,1634,1665,30.0,4204
+2628,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,1804,1834,30.0,4204
+2629,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,2423,2464,30.0,4204
+2630,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,2614,2663,30.0,4204
+2631,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,3020,3078,30.0,4204
+2632,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,3328,3368,30.0,4204
+2633,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,3660,3736,30.0,4204
+2634,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,1,Retract from Shelf,3925,3973,30.0,4204
+2635,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,891,980,30.0,4204
+2636,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,981,1046,30.0,4204
+2637,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,1774,1803,30.0,4204
+2638,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,2580,2613,30.0,4204
+2639,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,2961,3018,30.0,4204
+2640,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,3282,3321,30.0,4204
+2641,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,2,Hand in Shelf,3630,3660,30.0,4204
+2642,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,314,338,30.0,4204
+2643,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,568,657,30.0,4204
+2644,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,658,682,30.0,4204
+2645,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,1359,1407,30.0,4204
+2646,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,1668,1728,30.0,4204
+2647,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,1836,1920,30.0,4204
+2648,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,2666,2749,30.0,4204
+2649,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,3,Inspect Product,3368,3442,30.0,4204
+2650,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,380,468,30.0,4204
+2651,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,688,777,30.0,4204
+2652,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,778,858,30.0,4204
+2653,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,1089,1178,30.0,4204
+2654,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,1179,1251,30.0,4204
+2655,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,1472,1561,30.0,4204
+2656,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,1562,1592,30.0,4204
+2657,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,1954,1978,30.0,4204
+2658,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,2466,2540,30.0,4204
+2659,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,2796,2885,30.0,4204
+2660,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,2886,2931,30.0,4204
+2661,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,3135,3224,30.0,4204
+2662,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,3486,3575,30.0,4204
+2663,22_3,dataset\raw\Videos_MERL_Shopping_Dataset\22_3_crop.mp4,validation,4,Inspect Shelf,3776,3865,30.0,4204
+3096,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,271,311,30.0,4346
+3097,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,357,382,30.0,4346
+3098,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,857,896,30.0,4346
+3099,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,1224,1255,30.0,4346
+3100,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,1593,1625,30.0,4346
+3101,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,2280,2307,30.0,4346
+3102,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,2730,2777,30.0,4346
+3103,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,3595,3629,30.0,4346
+3104,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,1375,1419,30.0,4346
+3105,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,2527,2567,30.0,4346
+3106,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,0,Reach to Shelf,3705,3743,30.0,4346
+3107,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,412,433,30.0,4346
+3108,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,1418,1459,30.0,4346
+3109,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,3743,3762,30.0,4346
+3110,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,319,354,30.0,4346
+3111,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,960,998,30.0,4346
+3112,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,1261,1304,30.0,4346
+3113,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,1630,1669,30.0,4346
+3114,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,2309,2361,30.0,4346
+3115,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,2840,2876,30.0,4346
+3116,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,1,Retract from Shelf,3634,3673,30.0,4346
+3117,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,2,Hand in Shelf,383,411,30.0,4346
+3118,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,2,Hand in Shelf,896,959,30.0,4346
+3119,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,2,Hand in Shelf,2780,2841,30.0,4346
+3120,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,1006,1095,30.0,4346
+3121,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,1096,1128,30.0,4346
+3122,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,1672,1761,30.0,4346
+3123,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,1762,1851,30.0,4346
+3124,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,1852,1874,30.0,4346
+3125,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,2364,2453,30.0,4346
+3126,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,2454,2525,30.0,4346
+3127,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,2878,2967,30.0,4346
+3128,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,2968,3057,30.0,4346
+3129,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,3058,3147,30.0,4346
+3130,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,3148,3237,30.0,4346
+3131,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,3238,3327,30.0,4346
+3132,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,3328,3417,30.0,4346
+3133,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,3418,3440,30.0,4346
+3134,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,3,Inspect Product,3674,3701,30.0,4346
+3135,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,231,263,30.0,4346
+3136,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,438,527,30.0,4346
+3137,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,528,617,30.0,4346
+3138,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,618,707,30.0,4346
+3139,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,708,797,30.0,4346
+3140,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,798,851,30.0,4346
+3141,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,1131,1217,30.0,4346
+3142,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,1305,1374,30.0,4346
+3143,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,1466,1555,30.0,4346
+3144,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,1556,1589,30.0,4346
+3145,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,2206,2280,30.0,4346
+3146,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,2591,2680,30.0,4346
+3147,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,2681,2728,30.0,4346
+3148,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,3443,3532,30.0,4346
+3149,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,3533,3595,30.0,4346
+3150,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,3766,3855,30.0,4346
+3151,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,3856,3945,30.0,4346
+3152,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,3946,4035,30.0,4346
+3153,25_1,dataset\raw\Videos_MERL_Shopping_Dataset\25_1_crop.mp4,validation,4,Inspect Shelf,4036,4069,30.0,4346
+3654,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,285,322,30.0,4026
+3655,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,1053,1093,30.0,4026
+3656,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,1180,1231,30.0,4026
+3657,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,1634,1687,30.0,4026
+3658,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,2209,2243,30.0,4026
+3659,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,2248,2263,30.0,4026
+3660,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,2684,2713,30.0,4026
+3661,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,3185,3216,30.0,4026
+3662,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,3467,3509,30.0,4026
+3663,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,1865,1898,30.0,4026
+3664,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,2827,2853,30.0,4026
+3665,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,3306,3343,30.0,4026
+3666,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,0,Reach to Shelf,3604,3632,30.0,4026
+3667,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,404,470,30.0,4026
+3668,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,1903,1945,30.0,4026
+3669,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,3343,3392,30.0,4026
+3670,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,3633,3647,30.0,4026
+3671,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,1230,1284,30.0,4026
+3672,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,1690,1745,30.0,4026
+3673,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,2245,2263,30.0,4026
+3674,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,2477,2566,30.0,4026
+3675,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,2567,2601,30.0,4026
+3676,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,2778,2797,30.0,4026
+3677,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,2911,2951,30.0,4026
+3678,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,3225,3293,30.0,4026
+3679,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,1,Retract from Shelf,3514,3554,30.0,4026
+3680,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,328,402,30.0,4026
+3681,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,1098,1187,30.0,4026
+3682,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,1188,1230,30.0,4026
+3683,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,2266,2355,30.0,4026
+3684,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,2356,2445,30.0,4026
+3685,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,2446,2470,30.0,4026
+3686,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,2752,2778,30.0,4026
+3687,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,2,Hand in Shelf,2853,2911,30.0,4026
+3688,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,1288,1377,30.0,4026
+3689,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,1378,1467,30.0,4026
+3690,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,1468,1557,30.0,4026
+3691,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,1558,1580,30.0,4026
+3692,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,1750,1839,30.0,4026
+3693,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,1840,1855,30.0,4026
+3694,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,2797,2827,30.0,4026
+3695,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,2956,3011,30.0,4026
+3696,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,3,Inspect Product,3556,3604,30.0,4026
+3697,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,478,567,30.0,4026
+3698,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,568,657,30.0,4026
+3699,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,658,747,30.0,4026
+3700,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,748,837,30.0,4026
+3701,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,838,927,30.0,4026
+3702,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,928,1017,30.0,4026
+3703,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,1018,1051,30.0,4026
+3704,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,1580,1632,30.0,4026
+3705,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,2601,2683,30.0,4026
+3706,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,3020,3109,30.0,4026
+3707,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,3110,3188,30.0,4026
+3708,28_1,dataset\raw\Videos_MERL_Shopping_Dataset\28_1_crop.mp4,validation,4,Inspect Shelf,3400,3470,30.0,4026
+3709,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,329,373,30.0,4374
+3710,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,1201,1230,30.0,4374
+3711,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,1447,1471,30.0,4374
+3712,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,1943,1983,30.0,4374
+3713,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,2112,2154,30.0,4374
+3714,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,3505,3543,30.0,4374
+3715,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,3858,3889,30.0,4374
+3716,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,1370,1396,30.0,4374
+3717,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,1536,1593,30.0,4374
+3718,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,0,Reach to Shelf,4142,4171,30.0,4374
+3719,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,1396,1446,30.0,4374
+3720,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,1594,1614,30.0,4374
+3721,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,4176,4195,30.0,4374
+3722,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,375,419,30.0,4374
+3723,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,716,757,30.0,4374
+3724,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,1235,1279,30.0,4374
+3725,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,1473,1530,30.0,4374
+3726,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,2156,2211,30.0,4374
+3727,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,3582,3649,30.0,4374
+3728,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,1,Retract from Shelf,3908,3952,30.0,4374
+3729,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,2,Hand in Shelf,1983,2072,30.0,4374
+3730,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,2,Hand in Shelf,2073,2155,30.0,4374
+3731,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,2,Hand in Shelf,3542,3581,30.0,4374
+3732,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,2,Hand in Shelf,3888,3908,30.0,4374
+3733,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,419,508,30.0,4374
+3734,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,509,598,30.0,4374
+3735,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,599,688,30.0,4374
+3736,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,689,716,30.0,4374
+3737,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,1282,1370,30.0,4374
+3738,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,2218,2307,30.0,4374
+3739,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,2308,2397,30.0,4374
+3740,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,2398,2461,30.0,4374
+3741,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,3658,3747,30.0,4374
+3742,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,3748,3837,30.0,4374
+3743,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,3838,3857,30.0,4374
+3744,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,3955,4044,30.0,4374
+3745,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,3,Inspect Product,4045,4134,30.0,4374
+3746,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,236,325,30.0,4374
+3747,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,758,847,30.0,4374
+3748,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,848,937,30.0,4374
+3749,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,938,1027,30.0,4374
+3750,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,1028,1117,30.0,4374
+3751,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,1118,1200,30.0,4374
+3752,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,2462,2551,30.0,4374
+3753,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,2552,2585,30.0,4374
+3754,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,3233,3322,30.0,4374
+3755,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,3323,3412,30.0,4374
+3756,28_2,dataset\raw\Videos_MERL_Shopping_Dataset\28_2_crop.mp4,validation,4,Inspect Shelf,3413,3502,30.0,4374
+3757,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,187,215,30.0,3963
+3758,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,749,781,30.0,3963
+3759,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,824,857,30.0,3963
+3760,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,1055,1084,30.0,3963
+3761,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,1457,1489,30.0,3963
+3762,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,1502,1521,30.0,3963
+3763,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,1733,1763,30.0,3963
+3764,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,2134,2165,30.0,3963
+3765,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,2423,2466,30.0,3963
+3766,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,2656,2699,30.0,3963
+3767,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,2988,3042,30.0,3963
+3768,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,3307,3353,30.0,3963
+3769,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,3669,3706,30.0,3963
+3770,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,459,508,30.0,3963
+3771,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,0,Reach to Shelf,3525,3567,30.0,3963
+3772,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,509,551,30.0,3963
+3773,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,783,820,30.0,3963
+3774,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,1385,1415,30.0,3963
+3775,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,3566,3595,30.0,3963
+3776,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,217,236,30.0,3963
+3777,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,858,892,30.0,3963
+3778,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,1522,1573,30.0,3963
+3779,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,1764,1797,30.0,3963
+3780,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,2166,2213,30.0,3963
+3781,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,2466,2511,30.0,3963
+3782,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,2719,2770,30.0,3963
+3783,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,3118,3195,30.0,3963
+3784,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,3355,3394,30.0,3963
+3785,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,1,Retract from Shelf,3708,3746,30.0,3963
+3786,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,2,Hand in Shelf,1086,1175,30.0,3963
+3787,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,2,Hand in Shelf,1176,1265,30.0,3963
+3788,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,2,Hand in Shelf,1266,1355,30.0,3963
+3789,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,2,Hand in Shelf,1356,1382,30.0,3963
+3790,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,2,Hand in Shelf,2697,2718,30.0,3963
+3791,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,2,Hand in Shelf,3042,3116,30.0,3963
+3792,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,236,325,30.0,3963
+3793,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,326,415,30.0,3963
+3794,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,416,458,30.0,3963
+3795,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,2216,2260,30.0,3963
+3796,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,2516,2533,30.0,3963
+3797,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,3396,3485,30.0,3963
+3798,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,3,Inspect Product,3486,3523,30.0,3963
+3799,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,554,643,30.0,3963
+3800,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,644,733,30.0,3963
+3801,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,977,1049,30.0,3963
+3802,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,1417,1455,30.0,3963
+3803,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,1576,1665,30.0,3963
+3804,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,1666,1730,30.0,3963
+3805,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,2262,2351,30.0,3963
+3806,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,2352,2421,30.0,3963
+3807,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,2588,2652,30.0,3963
+3808,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,2815,2904,30.0,3963
+3809,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,2905,2984,30.0,3963
+3810,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,3203,3292,30.0,3963
+3811,28_3,dataset\raw\Videos_MERL_Shopping_Dataset\28_3_crop.mp4,validation,4,Inspect Shelf,3606,3674,30.0,3963
+4006,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,291,326,30.0,3804
+4007,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,448,470,30.0,3804
+4008,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,603,630,30.0,3804
+4009,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,778,799,30.0,3804
+4010,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,932,953,30.0,3804
+4011,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,1063,1093,30.0,3804
+4012,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,1316,1339,30.0,3804
+4013,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,1426,1461,30.0,3804
+4014,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,1578,1601,30.0,3804
+4015,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,1785,1817,30.0,3804
+4016,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2063,2090,30.0,3804
+4017,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2401,2420,30.0,3804
+4018,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2550,2578,30.0,3804
+4019,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2644,2662,30.0,3804
+4020,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2772,2802,30.0,3804
+4021,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,3000,3033,30.0,3804
+4022,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,3051,3090,30.0,3804
+4023,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,3324,3347,30.0,3804
+4024,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,201,230,30.0,3804
+4025,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,824,856,30.0,3804
+4026,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,1232,1257,30.0,3804
+4027,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2131,2168,30.0,3804
+4028,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,2847,2882,30.0,3804
+4029,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,3148,3165,30.0,3804
+4030,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,0,Reach to Shelf,3371,3412,30.0,3804
+4031,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,243,262,30.0,3804
+4032,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,556,574,30.0,3804
+4033,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,861,894,30.0,3804
+4034,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,990,1009,30.0,3804
+4035,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,1262,1284,30.0,3804
+4036,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,1521,1545,30.0,3804
+4037,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,2179,2195,30.0,3804
+4038,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,2475,2499,30.0,3804
+4039,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,2595,2620,30.0,3804
+4040,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,3415,3441,30.0,3804
+4041,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,339,383,30.0,3804
+4042,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,639,692,30.0,3804
+4043,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,804,821,30.0,3804
+4044,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,1352,1381,30.0,3804
+4045,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,1603,1630,30.0,3804
+4046,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,1686,1712,30.0,3804
+4047,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,1915,1942,30.0,3804
+4048,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,2094,2122,30.0,3804
+4049,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,2670,2736,30.0,3804
+4050,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,2809,2838,30.0,3804
+4051,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,3090,3120,30.0,3804
+4052,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,3209,3236,30.0,3804
+4053,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,1,Retract from Shelf,3350,3371,30.0,3804
+4054,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,471,553,30.0,3804
+4055,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,957,984,30.0,3804
+4056,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,1099,1188,30.0,3804
+4057,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,1189,1208,30.0,3804
+4058,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,1469,1515,30.0,3804
+4059,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,1827,1914,30.0,3804
+4060,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,2428,2466,30.0,3804
+4061,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,2,Hand in Shelf,3034,3051,30.0,3804
+4062,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,3,Inspect Product,156,198,30.0,3804
+4063,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,3,Inspect Product,3123,3144,30.0,3804
+4064,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,3,Inspect Product,3191,3208,30.0,3804
+4065,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,132,155,30.0,3804
+4066,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,392,443,30.0,3804
+4067,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,699,769,30.0,3804
+4068,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,1016,1055,30.0,3804
+4069,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,1292,1309,30.0,3804
+4070,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,1391,1418,30.0,3804
+4071,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,1552,1579,30.0,3804
+4072,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,1717,1780,30.0,3804
+4073,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,1946,2035,30.0,3804
+4074,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,2036,2056,30.0,3804
+4075,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,2373,2400,30.0,3804
+4076,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,2504,2544,30.0,3804
+4077,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,2736,2765,30.0,3804
+4078,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,2890,2979,30.0,3804
+4079,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,3237,3318,30.0,3804
+4080,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,3445,3534,30.0,3804
+4081,2_1,dataset\raw\Videos_MERL_Shopping_Dataset\2_1_crop.mp4,validation,4,Inspect Shelf,3535,3551,30.0,3804
+4837,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,227,258,30.0,3862
+4838,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,441,457,30.0,3862
+4839,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,1104,1123,30.0,3862
+4840,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,1246,1268,30.0,3862
+4841,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,1698,1719,30.0,3862
+4842,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,2110,2146,30.0,3862
+4843,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,2507,2535,30.0,3862
+4844,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,2712,2762,30.0,3862
+4845,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,368,395,30.0,3862
+4846,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,566,593,30.0,3862
+4847,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,880,920,30.0,3862
+4848,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,938,977,30.0,3862
+4849,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,992,1015,30.0,3862
+4850,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,2380,2436,30.0,3862
+4851,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,3104,3139,30.0,3862
+4852,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,3376,3414,30.0,3862
+4853,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,0,Reach to Shelf,3525,3563,30.0,3862
+4854,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,397,420,30.0,3862
+4855,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,922,938,30.0,3862
+4856,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,2437,2478,30.0,3862
+4857,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,3153,3184,30.0,3862
+4858,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,3564,3633,30.0,3862
+4859,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,259,294,30.0,3862
+4860,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,458,495,30.0,3862
+4861,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,666,748,30.0,3862
+4862,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,790,806,30.0,3862
+4863,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,1123,1167,30.0,3862
+4864,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,1270,1312,30.0,3862
+4865,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,1721,1758,30.0,3862
+4866,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,2149,2202,30.0,3862
+4867,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,2848,2901,30.0,3862
+4868,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,3200,3239,30.0,3862
+4869,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,1,Retract from Shelf,3456,3493,30.0,3862
+4870,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,2,Hand in Shelf,301,359,30.0,3862
+4871,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,2,Hand in Shelf,593,664,30.0,3862
+4872,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,2,Hand in Shelf,762,789,30.0,3862
+4873,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,2,Hand in Shelf,977,991,30.0,3862
+4874,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,2,Hand in Shelf,2762,2846,30.0,3862
+4875,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,2,Hand in Shelf,3415,3455,30.0,3862
+4876,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,495,565,30.0,3862
+4877,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,807,877,30.0,3862
+4878,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,2207,2296,30.0,3862
+4879,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,2297,2378,30.0,3862
+4880,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,3242,3331,30.0,3862
+4881,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,3332,3373,30.0,3862
+4882,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,3,Inspect Product,3495,3524,30.0,3862
+4883,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,421,436,30.0,3862
+4884,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1016,1103,30.0,3862
+4885,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1168,1245,30.0,3862
+4886,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1313,1402,30.0,3862
+4887,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1403,1492,30.0,3862
+4888,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1493,1582,30.0,3862
+4889,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1583,1672,30.0,3862
+4890,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,1673,1696,30.0,3862
+4891,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,2537,2626,30.0,3862
+4892,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,2627,2710,30.0,3862
+4893,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,2906,2995,30.0,3862
+4894,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,2996,3085,30.0,3862
+4895,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,3086,3100,30.0,3862
+4896,33_1,dataset\raw\Videos_MERL_Shopping_Dataset\33_1_crop.mp4,validation,4,Inspect Shelf,3634,3699,30.0,3862
+5267,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,222,243,30.0,3741
+5268,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,316,342,30.0,3741
+5269,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,477,493,30.0,3741
+5270,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,563,578,30.0,3741
+5271,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,985,1008,30.0,3741
+5272,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,1172,1191,30.0,3741
+5273,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,1593,1682,30.0,3741
+5274,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,1683,1766,30.0,3741
+5275,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,1979,2001,30.0,3741
+5276,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,2195,2225,30.0,3741
+5277,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,2383,2405,30.0,3741
+5278,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,2467,2489,30.0,3741
+5279,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,2545,2561,30.0,3741
+5280,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,2730,2752,30.0,3741
+5281,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,3175,3192,30.0,3741
+5282,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,1099,1131,30.0,3741
+5283,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,1273,1314,30.0,3741
+5284,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,2300,2332,30.0,3741
+5285,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,0,Reach to Shelf,3476,3515,30.0,3741
+5286,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,269,296,30.0,3741
+5287,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,512,533,30.0,3741
+5288,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,1133,1163,30.0,3741
+5289,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,2336,2362,30.0,3741
+5290,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,3515,3535,30.0,3741
+5291,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,434,470,30.0,3741
+5292,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,583,612,30.0,3741
+5293,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,1011,1056,30.0,3741
+5294,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,1195,1236,30.0,3741
+5295,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,2227,2250,30.0,3741
+5296,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,2411,2440,30.0,3741
+5297,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,2494,2542,30.0,3741
+5298,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,2564,2600,30.0,3741
+5299,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,2776,2804,30.0,3741
+5300,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,1,Retract from Shelf,3194,3221,30.0,3741
+5301,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,243,269,30.0,3741
+5302,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,342,429,30.0,3741
+5303,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,495,511,30.0,3741
+5304,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,534,561,30.0,3741
+5305,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,2005,2094,30.0,3741
+5306,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,2095,2184,30.0,3741
+5307,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,2,Hand in Shelf,2752,2775,30.0,3741
+5308,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,614,703,30.0,3741
+5309,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,704,793,30.0,3741
+5310,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,794,823,30.0,3741
+5311,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,1060,1095,30.0,3741
+5312,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,1239,1271,30.0,3741
+5313,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,2252,2300,30.0,3741
+5314,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,3223,3312,30.0,3741
+5315,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,3313,3402,30.0,3741
+5316,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,3,Inspect Product,3403,3476,30.0,3741
+5317,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,297,314,30.0,3741
+5318,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,826,915,30.0,3741
+5319,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,916,982,30.0,3741
+5320,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,1770,1859,30.0,3741
+5321,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,1860,1949,30.0,3741
+5322,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,1950,1973,30.0,3741
+5323,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2364,2382,30.0,3741
+5324,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2441,2464,30.0,3741
+5325,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2604,2693,30.0,3741
+5326,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2694,2726,30.0,3741
+5327,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2805,2894,30.0,3741
+5328,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2895,2984,30.0,3741
+5329,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,2985,3074,30.0,3741
+5330,3_2,dataset\raw\Videos_MERL_Shopping_Dataset\3_2_crop.mp4,validation,4,Inspect Shelf,3075,3164,30.0,3741
+5592,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,223,269,30.0,3867
+5593,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,655,693,30.0,3867
+5594,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,750,788,30.0,3867
+5595,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,1035,1083,30.0,3867
+5596,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,1719,1752,30.0,3867
+5597,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,2498,2549,30.0,3867
+5598,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,2665,2700,30.0,3867
+5599,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,3282,3321,30.0,3867
+5600,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,3486,3512,30.0,3867
+5601,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,1955,1986,30.0,3867
+5602,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,0,Reach to Shelf,3667,3706,30.0,3867
+5603,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,1985,2010,30.0,3867
+5604,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,2842,2865,30.0,3867
+5605,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,3708,3740,30.0,3867
+5606,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,327,348,30.0,3867
+5607,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,694,747,30.0,3867
+5608,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,790,845,30.0,3867
+5609,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,1084,1139,30.0,3867
+5610,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,1755,1801,30.0,3867
+5611,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,2570,2611,30.0,3867
+5612,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,3321,3368,30.0,3867
+5613,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,1,Retract from Shelf,3512,3549,30.0,3867
+5614,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,2,Hand in Shelf,272,321,30.0,3867
+5615,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,2,Hand in Shelf,2549,2570,30.0,3867
+5616,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,2,Hand in Shelf,2705,2794,30.0,3867
+5617,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,2,Hand in Shelf,2795,2839,30.0,3867
+5618,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,3,Inspect Product,1805,1894,30.0,3867
+5619,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,3,Inspect Product,1895,1951,30.0,3867
+5620,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,3,Inspect Product,2616,2661,30.0,3867
+5621,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,3,Inspect Product,3553,3642,30.0,3867
+5622,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,3,Inspect Product,3643,3666,30.0,3867
+5623,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,352,441,30.0,3867
+5624,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,442,531,30.0,3867
+5625,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,532,621,30.0,3867
+5626,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,622,651,30.0,3867
+5627,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,848,937,30.0,3867
+5628,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,938,1027,30.0,3867
+5629,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1142,1231,30.0,3867
+5630,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1232,1321,30.0,3867
+5631,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1322,1411,30.0,3867
+5632,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1412,1501,30.0,3867
+5633,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1502,1591,30.0,3867
+5634,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1592,1681,30.0,3867
+5635,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,1682,1715,30.0,3867
+5636,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,2387,2476,30.0,3867
+5637,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,2477,2498,30.0,3867
+5638,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,2868,2957,30.0,3867
+5639,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,2958,3047,30.0,3867
+5640,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,3048,3137,30.0,3867
+5641,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,3138,3227,30.0,3867
+5642,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,3228,3279,30.0,3867
+5643,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,3371,3460,30.0,3867
+5644,4_2,dataset\raw\Videos_MERL_Shopping_Dataset\4_2_crop.mp4,validation,4,Inspect Shelf,3461,3485,30.0,3867
+5690,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,452,473,30.0,3722
+5691,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,657,679,30.0,3722
+5692,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,1053,1078,30.0,3722
+5693,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,1196,1218,30.0,3722
+5694,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,1329,1354,30.0,3722
+5695,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,1744,1771,30.0,3722
+5696,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,2197,2211,30.0,3722
+5697,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,2425,2443,30.0,3722
+5698,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,2606,2627,30.0,3722
+5699,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,3304,3332,30.0,3722
+5700,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,1133,1150,30.0,3722
+5701,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,1850,1875,30.0,3722
+5702,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,2834,2871,30.0,3722
+5703,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,0,Reach to Shelf,3011,3043,30.0,3722
+5704,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,503,525,30.0,3722
+5705,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,1157,1173,30.0,3722
+5706,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,752,805,30.0,3722
+5707,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,1221,1255,30.0,3722
+5708,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,2217,2244,30.0,3722
+5709,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,2447,2469,30.0,3722
+5710,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,2630,2683,30.0,3722
+5711,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,2896,2962,30.0,3722
+5712,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,1,Retract from Shelf,3391,3421,30.0,3722
+5713,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,2,Hand in Shelf,693,739,30.0,3722
+5714,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,1104,1128,30.0,3722
+5715,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,2250,2310,30.0,3722
+5716,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,2471,2560,30.0,3722
+5717,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,2689,2778,30.0,3722
+5718,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,2779,2825,30.0,3722
+5719,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,2966,3003,30.0,3722
+5720,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,3,Inspect Product,3428,3477,30.0,3722
+5721,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,259,348,30.0,3722
+5722,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,349,433,30.0,3722
+5723,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,542,631,30.0,3722
+5724,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,835,924,30.0,3722
+5725,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,925,1014,30.0,3722
+5726,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,1015,1036,30.0,3722
+5727,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,1395,1484,30.0,3722
+5728,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,1485,1574,30.0,3722
+5729,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,1575,1664,30.0,3722
+5730,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,1665,1731,30.0,3722
+5731,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,2347,2410,30.0,3722
+5732,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,3104,3193,30.0,3722
+5733,5_1,dataset\raw\Videos_MERL_Shopping_Dataset\5_1_crop.mp4,validation,4,Inspect Shelf,3194,3279,30.0,3722
+5851,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,145,166,30.0,3801
+5852,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,455,491,30.0,3801
+5853,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,548,576,30.0,3801
+5854,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,781,823,30.0,3801
+5855,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,1287,1328,30.0,3801
+5856,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,1559,1596,30.0,3801
+5857,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,2309,2332,30.0,3801
+5858,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,2523,2570,30.0,3801
+5859,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,2756,2786,30.0,3801
+5860,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,3042,3066,30.0,3801
+5861,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,3346,3381,30.0,3801
+5862,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,1421,1464,30.0,3801
+5863,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,1727,1758,30.0,3801
+5864,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,2440,2479,30.0,3801
+5865,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,0,Reach to Shelf,2653,2710,30.0,3801
+5866,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,1467,1492,30.0,3801
+5867,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,2481,2517,30.0,3801
+5868,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,2713,2737,30.0,3801
+5869,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,262,309,30.0,3801
+5870,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,499,536,30.0,3801
+5871,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,586,638,30.0,3801
+5872,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,833,872,30.0,3801
+5873,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,1330,1351,30.0,3801
+5874,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,1599,1650,30.0,3801
+5875,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,1822,1855,30.0,3801
+5876,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,2334,2373,30.0,3801
+5877,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,2572,2613,30.0,3801
+5878,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,2789,2854,30.0,3801
+5879,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,3091,3138,30.0,3801
+5880,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,1,Retract from Shelf,3388,3458,30.0,3801
+5881,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,2,Hand in Shelf,180,235,30.0,3801
+5882,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,2,Hand in Shelf,1769,1808,30.0,3801
+5883,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,884,953,30.0,3801
+5884,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,1366,1415,30.0,3801
+5885,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,1656,1727,30.0,3801
+5886,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,1862,1935,30.0,3801
+5887,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,2379,2433,30.0,3801
+5888,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,2619,2650,30.0,3801
+5889,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,2861,2950,30.0,3801
+5890,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,2951,2975,30.0,3801
+5891,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,3149,3210,30.0,3801
+5892,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,3467,3556,30.0,3801
+5893,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,3,Inspect Product,3557,3639,30.0,3801
+5894,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,4,Inspect Shelf,323,412,30.0,3801
+5895,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,4,Inspect Shelf,413,437,30.0,3801
+5896,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,4,Inspect Shelf,656,745,30.0,3801
+5897,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,4,Inspect Shelf,746,769,30.0,3801
+5898,6_1,dataset\raw\Videos_MERL_Shopping_Dataset\6_1_crop.mp4,validation,4,Inspect Shelf,2992,3036,30.0,3801
+6153,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,160,199,30.0,3917
+6154,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,299,324,30.0,3917
+6155,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,414,443,30.0,3917
+6156,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,648,690,30.0,3917
+6157,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,882,918,30.0,3917
+6158,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,1144,1181,30.0,3917
+6159,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,1499,1533,30.0,3917
+6160,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,1671,1706,30.0,3917
+6161,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,2248,2284,30.0,3917
+6162,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,2480,2516,30.0,3917
+6163,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,2714,2754,30.0,3917
+6164,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,2926,2959,30.0,3917
+6165,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,3201,3233,30.0,3917
+6166,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,3427,3456,30.0,3917
+6167,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,3646,3674,30.0,3917
+6168,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,1600,1633,30.0,3917
+6169,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,1753,1791,30.0,3917
+6170,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,3008,3030,30.0,3917
+6171,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,3113,3166,30.0,3917
+6172,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,0,Reach to Shelf,3725,3761,30.0,3917
+6173,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,1632,1671,30.0,3917
+6174,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,1793,1817,30.0,3917
+6175,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,3167,3201,30.0,3917
+6176,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,3763,3783,30.0,3917
+6177,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,200,240,30.0,3917
+6178,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,324,360,30.0,3917
+6179,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,480,543,30.0,3917
+6180,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,768,831,30.0,3917
+6181,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,919,959,30.0,3917
+6182,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,1182,1223,30.0,3917
+6183,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,1534,1573,30.0,3917
+6184,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,1706,1751,30.0,3917
+6185,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,2359,2404,30.0,3917
+6186,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,2557,2630,30.0,3917
+6187,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,2754,2816,30.0,3917
+6188,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,2960,2986,30.0,3917
+6189,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,3071,3101,30.0,3917
+6190,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,3233,3270,30.0,3917
+6191,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,3455,3485,30.0,3917
+6192,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,1,Retract from Shelf,3673,3724,30.0,3917
+6193,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,2,Hand in Shelf,444,480,30.0,3917
+6194,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,2,Hand in Shelf,690,769,30.0,3917
+6195,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,2,Hand in Shelf,2286,2358,30.0,3917
+6196,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,2,Hand in Shelf,2518,2557,30.0,3917
+6197,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,2,Hand in Shelf,3030,3072,30.0,3917
+6198,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,959,977,30.0,3917
+6199,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,1224,1276,30.0,3917
+6200,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,1574,1599,30.0,3917
+6201,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,2404,2430,30.0,3917
+6202,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,2817,2844,30.0,3917
+6203,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,2986,3008,30.0,3917
+6204,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,3270,3318,30.0,3917
+6205,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,3,Inspect Product,3485,3517,30.0,3917
+6206,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,364,413,30.0,3917
+6207,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,619,647,30.0,3917
+6208,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,832,881,30.0,3917
+6209,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,1005,1094,30.0,3917
+6210,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,1095,1144,30.0,3917
+6211,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,1368,1457,30.0,3917
+6212,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,1458,1496,30.0,3917
+6213,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,2143,2232,30.0,3917
+6214,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,2453,2479,30.0,3917
+6215,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,2630,2715,30.0,3917
+6216,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,2845,2924,30.0,3917
+6217,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,3357,3426,30.0,3917
+6218,7_3,dataset\raw\Videos_MERL_Shopping_Dataset\7_3_crop.mp4,validation,4,Inspect Shelf,3559,3645,30.0,3917
