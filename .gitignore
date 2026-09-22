@@ -46,3 +46,6 @@ reports/*.csv
 
 # VS Code
 .vscode/
+# Project documentation - keep locally
+RetailVision_AI_AICW_Project_Report.docx
+RetailVision_AI_Project_Presentation (1).pptx
